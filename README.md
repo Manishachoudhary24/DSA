@@ -15,9 +15,12 @@ The main goal of this repository is to document my daily problem-solving journey
 # Problem Categories
 
 
+## Problem Categories
+
 | # | Problem | Difficulty | Solution | Topic |
 |---|---|---|---|---|
 | 7 | Reverse Integer | Medium | [Java](./7-reverse-integer) | Math |
+| 9 | Palindrome Number | Easy | [Java](./9-palindrome-number) | Math |
 | 941 | Sort Array By Parity | Easy | [Java](./941-sort-array-by-parity) | Arrays, Two Pointers |
 
 
