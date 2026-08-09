@@ -56,4 +56,12 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manishachoudhary24/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
