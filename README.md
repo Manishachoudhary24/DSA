@@ -28,3 +28,19 @@ The main goal of this repository is to document my daily problem-solving journey
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+<!---LeetCode Topics End-->
