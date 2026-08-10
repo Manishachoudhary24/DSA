@@ -11,9 +11,6 @@ The main goal of this repository is to document my daily problem-solving journey
 * **Primary Language:** Java 
 * **Platform:** LeetCode
 
-## Problem Categories
-
-## Problem Categories
 
 ## Problem Categories
 
@@ -27,6 +24,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | 21 | Merge Two Sorted Lists | Easy | [Java](./0021-merge-two-sorted-lists) | Linked List, Recursion |
 | 905 | Sort Array By Parity | Easy | [Java](./0905-sort-array-by-parity) | Array, Two Pointers, Sorting |
 | 1240 | Stone Game II | Medium | [Java](./1240-stone-game-ii) | Array, Math, Dynamic Programming, Game Theory, Prefix Sum |
+| 1510 | Stone Game IV | Hard | [Java](./1510-stone-game-iv) | Math, Dynamic Programming, Game Theory |
 | 3584 | Find the Lexicographically Smallest Valid Sequence | Medium | [Java](./3584-find-the-lexicographically-smallest-valid-sequence) | Array, Two Pointers, String, Dynamic Programming, Greedy |
 
 
