@@ -41,6 +41,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manishachoudhary24/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manishachoudhary24/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manishachoudhary24/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Manishachoudhary24/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +120,8 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manishachoudhary24/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Manishachoudhary24/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 <!---LeetCode Topics End-->
