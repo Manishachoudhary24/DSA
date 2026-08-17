@@ -36,6 +36,7 @@ The main goal of this repository is to document my daily problem-solving journey
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Manishachoudhary24/DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Manishachoudhary24/DSA/tree/main/0015-3sum/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1563-stone-game-v](https://github.com/Manishachoudhary24/DSA/tree/main/1563-stone-game-v/) | Hard |
@@ -108,6 +109,7 @@ The main goal of this repository is to document my daily problem-solving journey
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Manishachoudhary24/DSA/tree/main/0001-two-sum/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manishachoudhary24/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manishachoudhary24/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manishachoudhary24/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
