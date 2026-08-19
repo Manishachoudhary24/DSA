@@ -18,6 +18,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manishachoudhary24/DSA/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manishachoudhary24/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/Manishachoudhary24/DSA/tree/main/0015-3sum/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Manishachoudhary24/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -123,4 +124,12 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Manishachoudhary24/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manishachoudhary24/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manishachoudhary24/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
