@@ -75,6 +75,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [1510-stone-game-iv](https://github.com/Manishachoudhary24/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Manishachoudhary24/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manishachoudhary24/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Manishachoudhary24/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
