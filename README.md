@@ -19,6 +19,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manishachoudhary24/DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manishachoudhary24/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Manishachoudhary24/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Manishachoudhary24/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Manishachoudhary24/DSA/tree/main/0015-3sum/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -35,6 +36,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manishachoudhary24/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/Manishachoudhary24/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Manishachoudhary24/DSA/tree/main/0015-3sum/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
@@ -133,6 +135,7 @@ The main goal of this repository is to document my daily problem-solving journey
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Manishachoudhary24/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Manishachoudhary24/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
