@@ -51,6 +51,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0005-longest-palindromic-substring](https://github.com/Manishachoudhary24/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Manishachoudhary24/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Manishachoudhary24/DSA/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Manishachoudhary24/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Manishachoudhary24/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manishachoudhary24/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manishachoudhary24/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -81,6 +82,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Manishachoudhary24/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Manishachoudhary24/DSA/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Manishachoudhary24/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [1510-stone-game-iv](https://github.com/Manishachoudhary24/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Manishachoudhary24/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manishachoudhary24/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -111,6 +113,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Manishachoudhary24/DSA/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Manishachoudhary24/DSA/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/Manishachoudhary24/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Manishachoudhary24/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manishachoudhary24/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manishachoudhary24/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
