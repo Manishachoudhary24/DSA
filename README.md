@@ -42,6 +42,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0015-3sum](https://github.com/Manishachoudhary24/DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Manishachoudhary24/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Manishachoudhary24/DSA/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Manishachoudhary24/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Manishachoudhary24/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Manishachoudhary24/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
