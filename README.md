@@ -61,6 +61,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0013-roman-to-integer](https://github.com/Manishachoudhary24/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Manishachoudhary24/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manishachoudhary24/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manishachoudhary24/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manishachoudhary24/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
@@ -182,4 +183,12 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manishachoudhary24/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
