@@ -62,6 +62,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0014-longest-common-prefix](https://github.com/Manishachoudhary24/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manishachoudhary24/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manishachoudhary24/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manishachoudhary24/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
@@ -69,6 +70,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manishachoudhary24/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Manishachoudhary24/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1510-stone-game-iv](https://github.com/Manishachoudhary24/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Manishachoudhary24/DSA/tree/main/1563-stone-game-v/) | Hard |
 ## Manacher
@@ -183,6 +185,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manishachoudhary24/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0022-generate-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +194,5 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
