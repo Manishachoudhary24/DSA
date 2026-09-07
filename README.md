@@ -83,6 +83,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0002-add-two-numbers](https://github.com/Manishachoudhary24/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manishachoudhary24/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manishachoudhary24/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +197,16 @@ The main goal of this repository is to document my daily problem-solving journey
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0022-generate-parentheses/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
