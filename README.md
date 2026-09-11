@@ -47,6 +47,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manishachoudhary24/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manishachoudhary24/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Manishachoudhary24/DSA/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manishachoudhary24/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manishachoudhary24/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manishachoudhary24/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manishachoudhary24/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manishachoudhary24/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
@@ -213,4 +215,20 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manishachoudhary24/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manishachoudhary24/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manishachoudhary24/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manishachoudhary24/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manishachoudhary24/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
