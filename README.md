@@ -26,6 +26,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0018-4sum](https://github.com/Manishachoudhary24/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manishachoudhary24/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Manishachoudhary24/DSA/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Manishachoudhary24/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Manishachoudhary24/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/Manishachoudhary24/DSA/tree/main/1563-stone-game-v/) | Hard |
@@ -169,6 +170,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manishachoudhary24/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/Manishachoudhary24/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manishachoudhary24/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
