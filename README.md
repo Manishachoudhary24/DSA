@@ -27,6 +27,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manishachoudhary24/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Manishachoudhary24/DSA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Manishachoudhary24/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Manishachoudhary24/DSA/tree/main/0066-plus-one/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Manishachoudhary24/DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Manishachoudhary24/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/Manishachoudhary24/DSA/tree/main/1563-stone-game-v/) | Hard |
@@ -105,6 +106,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0012-integer-to-roman](https://github.com/Manishachoudhary24/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Manishachoudhary24/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Manishachoudhary24/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0066-plus-one](https://github.com/Manishachoudhary24/DSA/tree/main/0066-plus-one/) | Easy |
 | [1510-stone-game-iv](https://github.com/Manishachoudhary24/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Manishachoudhary24/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manishachoudhary24/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
