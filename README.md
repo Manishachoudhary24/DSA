@@ -72,6 +72,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0022-generate-parentheses](https://github.com/Manishachoudhary24/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manishachoudhary24/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Manishachoudhary24/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Manishachoudhary24/DSA/tree/main/0067-add-binary/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manishachoudhary24/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manishachoudhary24/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Dynamic Programming
@@ -107,6 +108,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | [0013-roman-to-integer](https://github.com/Manishachoudhary24/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Manishachoudhary24/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/Manishachoudhary24/DSA/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Manishachoudhary24/DSA/tree/main/0067-add-binary/) | Easy |
 | [1510-stone-game-iv](https://github.com/Manishachoudhary24/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Manishachoudhary24/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manishachoudhary24/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -161,6 +163,7 @@ The main goal of this repository is to document my daily problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Manishachoudhary24/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/Manishachoudhary24/DSA/tree/main/0067-add-binary/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Manishachoudhary24/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manishachoudhary24/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Manishachoudhary24/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -183,6 +186,7 @@ The main goal of this repository is to document my daily problem-solving journey
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Manishachoudhary24/DSA/tree/main/0067-add-binary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Manishachoudhary24/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
